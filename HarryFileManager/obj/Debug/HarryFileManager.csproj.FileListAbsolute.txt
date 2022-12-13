@@ -1,0 +1,10 @@
+D:\Naresh\Project\HarryFileManager\HarryFileManager\bin\Debug\HarryFileManager.exe.config
+D:\Naresh\Project\HarryFileManager\HarryFileManager\bin\Debug\HarryFileManager.exe
+D:\Naresh\Project\HarryFileManager\HarryFileManager\bin\Debug\HarryFileManager.pdb
+D:\Naresh\Project\HarryFileManager\HarryFileManager\obj\Debug\HarryFileManager.csprojAssemblyReference.cache
+D:\Naresh\Project\HarryFileManager\HarryFileManager\obj\Debug\HarryFileManager.frmFileManager.resources
+D:\Naresh\Project\HarryFileManager\HarryFileManager\obj\Debug\HarryFileManager.Properties.Resources.resources
+D:\Naresh\Project\HarryFileManager\HarryFileManager\obj\Debug\HarryFileManager.csproj.GenerateResource.cache
+D:\Naresh\Project\HarryFileManager\HarryFileManager\obj\Debug\HarryFileManager.csproj.CoreCompileInputs.cache
+D:\Naresh\Project\HarryFileManager\HarryFileManager\obj\Debug\HarryFileManager.exe
+D:\Naresh\Project\HarryFileManager\HarryFileManager\obj\Debug\HarryFileManager.pdb
